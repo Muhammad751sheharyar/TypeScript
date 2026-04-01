@@ -1,6 +1,5 @@
-// const firstName:string= "Ali";
-// console.log(firstName);
-
+const firstName:string= "Ali";
+console.log(firstName);
 
 
 let Information: {

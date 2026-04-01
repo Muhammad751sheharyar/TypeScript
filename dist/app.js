@@ -1,7 +1,7 @@
 "use strict";
-// const firstName:string= "Ali";
-// console.log(firstName);
 Object.defineProperty(exports, "__esModule", { value: true });
+const firstName = "Ali";
+console.log(firstName);
 let Information = {
     Name: "Sheharyar",
     Age: 18,
