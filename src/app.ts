@@ -5,7 +5,7 @@ console.log(firstName);
 let Information: {
     Name: string,
     Age: number,
-    Cnic: number,
+    Cnic: number,    
 }={
     Name:"Sheharyar",
     Age:18,
