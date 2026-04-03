@@ -12,3 +12,4 @@ let Information: {
     Cnic:432144234234
 }
 console.log(Information);
+  
