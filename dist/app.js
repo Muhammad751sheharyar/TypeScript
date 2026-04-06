@@ -1,26 +1,11 @@
 "use strict";
+// const firstName:string= "Ali";
+// console.log(firstName);
 Object.defineProperty(exports, "__esModule", { value: true });
-const firstName = "Ali";
-console.log(firstName);
-let Information = {
-    Name: "Sheharyar",
-    Age: 18,
-    Cnic: 432144234234
+let Data = {
+    studentId: 1234,
+    studentName: "Danish",
+    staffId: 1001,
+    staffName: "Gulzar",
 };
-console.log(Information);
-// interface IManagment {
-//     staffId?: number | string,
-//     staffName?: string
-// }
-// interface IStudent {
-//     studentId?: number | string,
-//     studentName?: string
-// }
-// type interset = IManagment & IStudent
-// let Data:interset={
-//     studentId:1234,
-//     studentName:"Danish",
-//     staffId:1001,
-//     staffName:"Gulzar",
-// }
-// console.log(Data)
+console.log(Data);
