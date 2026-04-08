@@ -16,6 +16,15 @@
 
 
 
+let num:number=25;
+// console.log(num)
+
+
+let num1:number=20;
+console.log(num + num1)
+
+
+
 interface IManagment {
     staffId?: number | string,
     staffName?: string
