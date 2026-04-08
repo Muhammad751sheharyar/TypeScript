@@ -23,3 +23,5 @@ let Data = {
     staffName: "Gulzar",
 };
 console.log(Data);
+let array = [20, 25, 30, 35];
+console.log(array[1]);

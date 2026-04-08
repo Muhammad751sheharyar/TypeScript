@@ -45,3 +45,10 @@ let Data:interset={
     staffName:"Gulzar",
 }
 console.log(Data)
+
+
+
+
+
+let array:number[]=[20,25,30,35]
+console.log(array[1])
