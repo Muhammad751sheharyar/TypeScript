@@ -30,7 +30,7 @@ type interset = IManagment & IStudent
 
 
 let Data:interset={
-    studentId:1234,
+    studentId:1234,  
     studentName:"Danish",
     staffId:1001,
     staffName:"Gulzar",
